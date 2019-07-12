@@ -7,16 +7,16 @@
     "descripción": "Postre hecho con masa quebrada y un relleno suave a base de leche condensada y limon cubierto con merengue suizo.",
     "Stock": "10 Unidades",
     "imagen": "Pie de limón.jpg",
-    "boton": "Botón"
+    "boton": "Agregar"
   },
   {
     "id": 2,
-    "nombre": "Crème brûlée frutos del bosque",
+    "nombre": "Crème brûlée",
     "precio": "29.990",
     "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración.",
     "Stock": "10 Unidades",
     "imagen": "Crème brûlée.jpg",
-    "boton": "Botón"
+    "boton": "Agregar"
   },
   {
     "id": 3,
@@ -25,7 +25,7 @@
     "descripción": "Postre hecho a base de leche evaporada, condensada, crema y huevos cubierto con merengue suizo.",
     "Stock": "10 Unidades",
     "imagen": "Suspiro Limeño.jpg",
-    "boton": "Botón"
+    "boton": "Agregar"
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
     "descripción": "Torta a base de un biscocho mediano, relleno de manjar y crema.",
     "Stock": "10 Unidades",
     "imagen": "Torta de Manjar.jpg",
-    "boton": "Botón"
+    "boton": "Agregar"
   }
 ]
 }
