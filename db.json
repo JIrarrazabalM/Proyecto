@@ -4,7 +4,7 @@
     "id": 1,
     "nombre": "Pie de Limón",
     "precio": "29.990",
-    "descripción": "Postre hecho con masa quebrada y un relleno suave a base de leche condensada y limon cubierto con merengue suizo."
+    "descripción": "Postre hecho con masa quebrada y un relleno suave a base de leche condensada y limon cubierto con merengue suizo.",
     "Stock": "10 Unidades",
     "imagen": "Pie de limón.jpg"
   },
@@ -12,7 +12,7 @@
     "id": 2,
     "nombre": "Crème brûlée frutos del bosque",
     "precio": "29.990",
-    "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración."
+    "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración.",
     "Stock": "10 Unidades",
     "imagen": "Crème brûlée.jpg"
   },
@@ -20,7 +20,7 @@
     "id": 3,
     "nombre": "Suspiro Limeño",
     "precio": "29.990",
-    "descripción": "Postre hecho a base de leche evaporada, condensada, crema y huevos cubierto con merengue suizo."
+    "descripción": "Postre hecho a base de leche evaporada, condensada, crema y huevos cubierto con merengue suizo.",
     "Stock": "10 Unidades",
     "imagen": "Suspiro Limeño.jpg"
   },
@@ -28,7 +28,7 @@
     "id": 4,
     "nombre": "Torta de Manjar",
     "precio": "29.990",
-    "descripción": "Torta a base de un biscocho mediano, relleno de manjar y crema."
+    "descripción": "Torta a base de un biscocho mediano, relleno de manjar y crema.",
     "Stock": "10 Unidades",
     "imagen": "Torta de Manjar.jpg"
   }
