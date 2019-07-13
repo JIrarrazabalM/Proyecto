@@ -71,66 +71,6 @@
     "boton": "Agregar"
   },
   {
-    "id": 10,
-    "tipo": "ofertas",
-    "nombre": "Crème brûlée",
-    "precio": "29.990",
-    "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración.",
-    "Stock": "10 Unidades",
-    "imagen": "Crème brûlée.jpg",
-    "boton": "Agregar"
-  },
-  {
-    "id": 11,
-    "tipo": "ofertas",
-    "nombre": "Suspiro Limeño",
-    "precio": "29.990",
-    "descripción": "Postre hecho a base de leche evaporada, condensada, crema y huevos cubierto con merengue suizo.",
-    "Stock": "10 Unidades",
-    "imagen": "Suspiro Limeño.jpg",
-    "boton": "Agregar"
-  },
-  {
-    "id": 12,
-    "tipo": "ofertas",
-    "nombre": "Torta de Manjar",
-    "precio": "29.990",
-    "descripción": "Torta a base de un biscocho mediano, relleno de manjar y crema.",
-    "Stock": "10 Unidades",
-    "imagen": "Torta de Manjar.jpg",
-    "boton": "Agregar"
-  },
-      {
-    "id": 13,
-    "tipo": "ofertas",
-    "nombre": "Torta 3 Leches",
-    "precio": "29.990",
-    "descripción": "Torta a base de biscocho mediano, relleno de leche evaporada, condesada y crema, cubierta merengue.",
-    "Stock": "10 Unidades",
-    "imagen": "Torta tres leches.jpg",
-    "boton": "Agregar"
-  },
-         {
-    "id": 14,
-    "tipo": "ofertas",
-    "nombre": "Tartaleta de Manzana",
-    "precio": "29.990",
-    "descripción": "Tartaleta hecho a base de masa quebrada, relleno de Manzana, canela y zumo de limon.",
-    "Stock": "10 Unidades",
-    "imagen": "Tartaleta de Manzana.jpg",
-    "boton": "Agregar"
-  },
-             {
-    "id": 15,
-    "tipo": "ofertas",
-    "nombre": "Chilenitos",
-    "precio": "29.990",
-    "descripción": "Pastelito hecho a base de masa quebrada con relleno de manjar.",
-    "Stock": "10 Unidades",
-    "imagen": "Chilenitos.jpg",
-    "boton": "Agregar"
-  },
-  {
     "id": 18,
     "tipo": "pasteles",
     "nombre": "Cheesecake de Chocolate Blanco",
