@@ -1,16 +1,6 @@
 {
   "productos":[
   {
-    "id": 1,
-    "tipo": "banquetes",
-    "nombre": "Pie de Limón",
-    "precio": "29.990",
-    "descripción": "Postre hecho con masa quebrada y un relleno de leche condensada y limón con merengue suizo.",
-    "Stock": "10 Unidades",
-    "imagen": "Pie de limón.jpg",
-    "boton": "Agregar"
-  },
-  {
     "id": 2,
     "tipo": "banquetes",
     "nombre": "Crème brûlée",
@@ -80,16 +70,6 @@
     "imagen": "Cuchufli de chocolate.jpg",
     "boton": "Agregar"
   },
-       {
-    "id": 9,
-    "tipo": "ofertas",
-    "nombre": "Pie de Limón",
-    "precio": "29.990",
-    "descripción": "Postre hecho con masa quebrada y un relleno de leche condensada y limón con merengue suizo.",
-    "Stock": "10 Unidades",
-    "imagen": "Pie de limón.jpg",
-    "boton": "Agregar"
-  },
   {
     "id": 10,
     "tipo": "ofertas",
@@ -150,27 +130,7 @@
     "imagen": "Chilenitos.jpg",
     "boton": "Agregar"
   },
-    {
-    "id": 16,
-    "tipo": "ofertas",
-    "nombre": "Cuchufli de Chocolate",
-    "precio": "29.990",
-    "descripción": "Masa delgada hecha en casa con relleno de majar y cubierto de chocolate.",
-    "Stock": "10 Unidades",
-    "imagen": "Cuchufli de chocolate.jpg",
-    "boton": "Agregar"
-  },
-    {
-    "id": 17,
-    "tipo": "pasteles",
-    "nombre": "kuchen Nuez",
-    "precio": "29.990",
-    "descripción": "Pastel hecho a base de una masa quebrada rellena con mazana y nuez.",
-    "Stock": "10 Unidades",
-    "imagen": "kuchen_nuez.jpg",
-    "boton": "Agregar"
-  }, 
-        {
+  {
     "id": 18,
     "tipo": "pasteles",
     "nombre": "Cheesecake de Chocolate Blanco",
