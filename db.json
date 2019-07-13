@@ -2,6 +2,7 @@
   "productos":[
   {
     "id": 1,
+    "tipo": "banquetes",
     "nombre": "Pie de Limón",
     "precio": "29.990",
     "descripción": "Postre hecho con masa quebrada y un relleno de leche condensada y limón con merengue suizo.",
@@ -11,6 +12,7 @@
   },
   {
     "id": 2,
+    "tipo": "banquetes",
     "nombre": "Crème brûlée",
     "precio": "29.990",
     "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración.",
@@ -20,6 +22,7 @@
   },
   {
     "id": 3,
+    "tipo": "banquetes",
     "nombre": "Suspiro Limeño",
     "precio": "29.990",
     "descripción": "Postre hecho a base de leche evaporada, condensada, crema y huevos cubierto con merengue suizo.",
@@ -29,15 +32,57 @@
   },
   {
     "id": 4,
+    "tipo": "banquetes",
     "nombre": "Torta de Manjar",
     "precio": "29.990",
     "descripción": "Torta a base de un biscocho mediano, relleno de manjar y crema.",
     "Stock": "10 Unidades",
     "imagen": "Torta de Manjar.jpg",
     "boton": "Agregar"
-  }
-    {
+  },
+      {
     "id": 5,
+    "tipo": "banquetes",
+    "nombre": "Torta 3 Leches",
+    "precio": "29.990",
+    "descripción": "Torta a base de biscocho mediano, relleno de leche evaporada, condesada y crema, cubierta merengue.",
+    "Stock": "10 Unidades",
+    "imagen": "Torta tres leches.jpg",
+    "boton": "Agregar"
+  },
+         {
+    "id": 6,
+    "tipo": "banquetes",
+    "nombre": "Tartaleta de Manzana",
+    "precio": "29.990",
+    "descripción": "Tartaleta hecho a base de masa quebrada, relleno de Manzana, canela y zumo de limon.",
+    "Stock": "10 Unidades",
+    "imagen": "Tartaleta de Manzana.jpg",
+    "boton": "Agregar"
+  },
+             {
+    "id": 7,
+    "tipo": "banquetes",
+    "nombre": "Chilenitos",
+    "precio": "29.990",
+    "descripción": "Pastelito hecho a base de masa quebrada con relleno de manjar.",
+    "Stock": "10 Unidades",
+    "imagen": "Chilenitos.jpg",
+    "boton": "Agregar"
+  },
+    {
+    "id": 8,
+    "tipo": "banquetes",
+    "nombre": "Cuchufli de Chocolate",
+    "precio": "29.990",
+    "descripción": "Masa delgada hecha en casa con relleno de majar y cubierto de chocolate.",
+    "Stock": "10 Unidades",
+    "imagen": "Cuchufli de chocolate.jpg",
+    "boton": "Agregar"
+  },
+       {
+    "id": 9,
+    "tipo": "ofertas",
     "nombre": "Pie de Limón",
     "precio": "29.990",
     "descripción": "Postre hecho con masa quebrada y un relleno de leche condensada y limón con merengue suizo.",
@@ -46,7 +91,8 @@
     "boton": "Agregar"
   },
   {
-    "id": 6,
+    "id": 10,
+    "tipo": "ofertas",
     "nombre": "Crème brûlée",
     "precio": "29.990",
     "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración.",
@@ -55,7 +101,8 @@
     "boton": "Agregar"
   },
   {
-    "id": 7,
+    "id": 11,
+    "tipo": "ofertas",
     "nombre": "Suspiro Limeño",
     "precio": "29.990",
     "descripción": "Postre hecho a base de leche evaporada, condensada, crema y huevos cubierto con merengue suizo.",
@@ -64,12 +111,323 @@
     "boton": "Agregar"
   },
   {
-    "id": 8,
+    "id": 12,
+    "tipo": "ofertas",
     "nombre": "Torta de Manjar",
     "precio": "29.990",
     "descripción": "Torta a base de un biscocho mediano, relleno de manjar y crema.",
     "Stock": "10 Unidades",
     "imagen": "Torta de Manjar.jpg",
+    "boton": "Agregar"
+  },
+      {
+    "id": 13,
+    "tipo": "ofertas",
+    "nombre": "Torta 3 Leches",
+    "precio": "29.990",
+    "descripción": "Torta a base de biscocho mediano, relleno de leche evaporada, condesada y crema, cubierta merengue.",
+    "Stock": "10 Unidades",
+    "imagen": "Torta tres leches.jpg",
+    "boton": "Agregar"
+  },
+         {
+    "id": 14,
+    "tipo": "ofertas",
+    "nombre": "Tartaleta de Manzana",
+    "precio": "29.990",
+    "descripción": "Tartaleta hecho a base de masa quebrada, relleno de Manzana, canela y zumo de limon.",
+    "Stock": "10 Unidades",
+    "imagen": "Tartaleta de Manzana.jpg",
+    "boton": "Agregar"
+  },
+             {
+    "id": 15,
+    "tipo": "ofertas",
+    "nombre": "Chilenitos",
+    "precio": "29.990",
+    "descripción": "Pastelito hecho a base de masa quebrada con relleno de manjar.",
+    "Stock": "10 Unidades",
+    "imagen": "Chilenitos.jpg",
+    "boton": "Agregar"
+  },
+    {
+    "id": 16,
+    "tipo": "ofertas",
+    "nombre": "Cuchufli de Chocolate",
+    "precio": "29.990",
+    "descripción": "Masa delgada hecha en casa con relleno de majar y cubierto de chocolate.",
+    "Stock": "10 Unidades",
+    "imagen": "Cuchufli de chocolate.jpg",
+    "boton": "Agregar"
+  },
+    {
+    "id": 17,
+    "tipo": "pasteles",
+    "nombre": "kuchen Nuez",
+    "precio": "29.990",
+    "descripción": "Pastel hecho a base de una masa quebrada rellena con mazana y nuez.",
+    "Stock": "10 Unidades",
+    "imagen": "kuchen_nuez.jpg",
+    "boton": "Agregar"
+  }, 
+        {
+    "id": 18,
+    "tipo": "pasteles",
+    "nombre": "Cheesecake de Chocolate Blanco",
+    "precio": "29.990",
+    "descripción": "Pastel hecho a base galletas artesanales queso crema y chocolate blanco.",
+    "Stock": "10 Unidades",
+    "imagen": "CHEESECAKE_CHOCOLATE_BLANCO.jpg",
+    "boton": "Agregar"
+  }, 
+      {
+    "id": 19,
+    "tipo": "pasteles",
+    "nombre": "Tartaleta de Frutas",
+    "precio": "29.990",
+    "descripción": "Pastel hecho a base de masa quebrada rellena con variedad de frutas y crema pastelera.",
+    "Stock": "10 Unidades",
+    "imagen": "TARTALETA_FRUTAS.jpg",
+    "boton": "Agregar"
+  }, 
+      {
+    "id": 20,
+    "tipo": "pasteles",
+    "nombre": "Cheesecake de Chocolate",
+    "precio": "29.990",
+    "descripción": "Pastel hecho a base galletas artesanales queso crema y chocolate negro",
+    "Stock": "10 Unidades",
+    "imagen": "CHEESECAKE_CHOCOLATE_NEGRO.jpg",
+    "boton": "Agregar"
+  }, 
+          {
+    "id": 21,
+    "tipo": "pasteles",
+    "nombre": "Pastel de Queso",
+    "precio": "29.990",
+    "descripción": "Torta a base de un biscocho mediano, relleno de manjar y crema.",
+    "Stock": "10 Unidades",
+    "imagen": "PASTEL_QUESO.jpg",
+    "boton": "Agregar"
+  }, 
+              {
+    "id": 22,
+    "tipo": "pasteles",
+    "nombre": "Tartaleta de Manzana",
+    "precio": "29.990",
+    "descripción": "Tartaleta hecho a base de masa quebrada, relleno de Manzana, canela y zumo de limon.",
+    "Stock": "10 Unidades",
+    "imagen": "Tartaleta_Manzana.jpg",
+    "boton": "Agregar"
+  },
+                 {
+    "id": 23,
+    "tipo": "pasteles",
+    "nombre": "Queque de Yogurt",
+    "precio": "29.990",
+    "descripción": "Queque hecho a base de yogut de frutilla y trozos naturales.",
+    "Stock": "10 Unidades",
+    "imagen": "Queque_Yogurt.jpg",
+    "boton": "Agregar"
+  },
+                     {
+    "id": 24,
+    "tipo": "pasteles",
+    "nombre": "Strudel de Peras y Chocolate",
+    "precio": "29.990",
+    "descripción": "Masa delgada hecha en casa con relleno de peras y cubierto de chocolate.",
+    "Stock": "10 Unidades",
+    "imagen": "StrudelDePeras.jpg",
+    "boton": "Agregar"
+  },
+   {
+    "id": 25,
+    "tipo": "pasteles",
+    "nombre": "Almendron Achocolatado",
+    "precio": "29.990",
+    "descripción": "Masa hecha en casa rellena con almendras, nueces y crema pastelera.",
+    "Stock": "10 Unidades",
+    "imagen": "ALMENDRÓN_ACHOCOLATADO.jpg",
+    "boton": "Agregar"
+  },
+    {
+    "id": 26,
+    "tipo": "postres",
+    "nombre": "Creme Brulee",
+    "precio": "29.990",
+    "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración.",
+    "Stock": "10 Unidades",
+    "imagen": "CREME_BRULEE.jpg",
+    "boton": "Agregar"
+  },
+        {
+    "id": 27,
+    "tipo": "postres",
+    "nombre": "Tiramisú",
+    "precio": "29.990",
+    "descripción": "Postre hecho a base de un biscocho y una mezcla de queso crema y cafe.",
+    "Stock": "10 Unidades",
+    "imagen": "TIRAMISÚ.jpg",
+    "boton": "Agregar"
+  },
+           {
+    "id": 28,
+    "tipo": "postres",
+    "nombre": "Creme Brulee de Chocolate",
+    "precio": "29.990",
+    "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración",
+    "Stock": "10 Unidades",
+    "imagen": "CREME BRULEE DE CHOCOLATE.jpg",
+    "boton": "Agregar"
+  },
+               {
+    "id": 29,
+    "tipo": "postres",
+    "nombre": "Muffins con Chocolate",
+    "precio": "29.990",
+    "descripción": "Postre hecho a base de un biscocho liviano y suave con chips de chocolate.",
+    "Stock": "10 Unidades",
+    "imagen": "MUFFINS CON CHIPS DE CHOCOLATE.jpg",
+    "boton": "Agregar"
+  },
+      {
+    "id": 30,
+    "tipo": "postres",
+    "nombre": "Mousse de Tres Chocolates",
+    "precio": "29.990",
+    "descripción": "Postre hecho a base de crema y chocolate blanco, ducle y amargo.",
+    "Stock": "10 Unidades",
+    "imagen": "MOUSSE DE TRES CHOCOLATES.jpg",
+    "boton": "Agregar"
+  },
+          {
+    "id": 31,
+    "tipo": "postres",
+    "nombre": "BROWNIES",
+    "precio": "29.990",
+    "descripción": "Postre hecho a base una masa suave de chocolate con nueces.",
+    "Stock": "10 Unidades",
+    "imagen": "BROWNIES.jpg",
+    "boton": "Agregar"
+  },
+              {
+    "id": 32,
+    "tipo": "postres",
+    "nombre": "FLAN DE COCO",
+    "precio": "29.990",
+    "descripción": "Postre hecho a base de leche y huevo con un toque de coco.",
+    "Stock": "10 Unidades",
+    "imagen": "FLAN DE COCO.jpg",
+    "boton": "Agregar"
+  },
+                  {
+    "id": 33,
+    "tipo": "postres",
+    "nombre": "BABARUA",
+    "precio": "29.990",
+    "descripción": "Postre suave con sabor a frutilla natural.",
+    "Stock": "10 Unidades",
+    "imagen": "BABARUA.jpg",
+    "boton": "Agregar"
+  },
+          {
+    "id": 34,
+    "tipo": "postres",
+    "nombre": "POSTRE PARA HALLOWEEN",
+    "precio": "29.990",
+    "descripción": "Postre a base de masa quebrada y chocolate con temarica de Halloween.",
+    "Stock": "10 Unidades",
+    "imagen": "POSTRE PARA HALLOWEEN.jpg",
+    "boton": "Agregar"
+  },
+              {
+    "id": 35,
+    "tipo": "tortas",
+    "nombre": "Torta de Galletas",
+    "precio": "29.990",
+    "descripción": "Torta hecha base de galletas de champagne artesanales y crema de limón.",
+    "Stock": "10 Unidades",
+    "imagen": "torta_galletas.jpg",
+    "boton": "Agregar"
+  },
+                  {
+    "id": 36,
+    "tipo": "tortas",
+    "nombre": "Torta Tres Leches",
+    "precio": "29.990",
+    "descripción": "Torta hecha a base de un biscocho con leche evaporada, condensada y crema liquida.",
+    "Stock": "10 Unidades",
+    "imagen": "torta_tres_leches.jpg",
+    "boton": "Agregar"
+  },
+         {
+    "id": 37,
+    "tipo": "tortas",
+    "nombre": "Torta de Bizcocho Chocolate Manjar",
+    "precio": "29.990",
+    "descripción": "Torta hecha a base de un biscocho de chocolate y majar.",
+    "Stock": "10 Unidades",
+    "imagen": "torta_biscocho_chocolate.jpeg",
+    "boton": "Agregar"
+  },
+        {
+    "id": 38,
+    "tipo": "tortas",
+    "nombre": "Torta 3 Leches con frutos del Bosque",
+    "precio": "29.990",
+    "descripción": "Torta de 3 leches acompañada de frescos frutos secos",
+    "Stock": "10 Unidades",
+    "imagen": "torta_tres_leches_frutas.jpg",
+    "boton": "Agregar"
+  },
+            {
+    "id": 39,
+    "tipo": "tortas",
+    "nombre": "Torta de Manjar",
+    "precio": "29.990",
+    "descripción": "Torta de 3 leches acompañada de frescos frutos secos",
+    "Stock": "10 Unidades",
+    "imagen": "torta_manjar.jpg",
+    "boton": "Agregar"
+  },
+               {
+    "id": 40,
+    "tipo": "tortas",
+    "nombre": "Torta Chocolate",
+    "precio": "29.990",
+    "descripción": "Torta hecha a base de biscocho de chocolate dulce y crema.",
+    "Stock": "10 Unidades",
+    "imagen": "torta_chocolate.jpg",
+    "boton": "Agregar"
+  },
+                   {
+    "id": 41,
+    "tipo": "tortas",
+    "nombre": "Torta de Panqueque de Naranja",
+    "precio": "29.990",
+    "descripción": "Torta hecha a base de variados panqueques con crema de naranja",
+    "Stock": "10 Unidades",
+    "imagen": "panqueque_naranja.jpg",
+    "boton": "Agregar"
+  },
+                       {
+    "id": 42,
+    "tipo": "tortas",
+    "nombre": "Torta Moka",
+    "precio": "29.990",
+    "descripción": "Torta hecha a base de un biscocho con relleno de crema con cafe.",
+    "Stock": "10 Unidades",
+    "imagen": "torta_moka.jpg",
+    "boton": "Agregar"
+  },
+                           {
+    "id": 43,
+    "tipo": "tortas",
+    "nombre": "Torta Selva Negra",
+    "precio": "29.990",
+    "descripción": "Torta hecha a base de biscocho de chocolate con relleno de crema y cacao.",
+    "Stock": "10 Unidades",
+    "imagen": "selva_negra.jpg",
     "boton": "Agregar"
   }
 ]
