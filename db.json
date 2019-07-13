@@ -210,16 +210,6 @@
     "imagen": "ALMENDRÓN_ACHOCOLATADO.jpg",
     "boton": "Agregar"
   },
-    {
-    "id": 26,
-    "tipo": "postres",
-    "nombre": "Creme Brulee",
-    "precio": "29.990",
-    "descripción": "Postre hecho a base de leche, huevo y frutos del bosque con azucar caramelizada como decoración.",
-    "Stock": "10 Unidades",
-    "imagen": "CREME_BRULEE.jpg",
-    "boton": "Agregar"
-  },
         {
     "id": 27,
     "tipo": "postres",
@@ -290,16 +280,6 @@
     "imagen": "BABARUA.jpg",
     "boton": "Agregar"
   },
-          {
-    "id": 34,
-    "tipo": "postres",
-    "nombre": "POSTRE PARA HALLOWEEN",
-    "precio": "29.990",
-    "descripción": "Postre a base de masa quebrada y chocolate con temarica de Halloween.",
-    "Stock": "10 Unidades",
-    "imagen": "POSTRE PARA HALLOWEEN.jpg",
-    "boton": "Agregar"
-  },
               {
     "id": 35,
     "tipo": "tortas",
@@ -338,16 +318,6 @@
     "descripción": "Torta de 3 leches acompañada de frescos frutos secos",
     "Stock": "10 Unidades",
     "imagen": "torta_tres_leches_frutas.jpg",
-    "boton": "Agregar"
-  },
-            {
-    "id": 39,
-    "tipo": "tortas",
-    "nombre": "Torta de Manjar",
-    "precio": "29.990",
-    "descripción": "Torta de 3 leches acompañada de frescos frutos secos",
-    "Stock": "10 Unidades",
-    "imagen": "torta_manjar.jpg",
     "boton": "Agregar"
   },
                {
